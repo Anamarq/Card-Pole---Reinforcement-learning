@@ -1,8 +1,6 @@
 > Aprender a tomar buenas decisiones a base de prueba y error, utilizando recompensas como guía.
 > 
 
-Código: 
-
 ![CartPole.gif](Images/CartPole.gif)
 
 # ¿Qué es el aprendizaje por refuerzo?
